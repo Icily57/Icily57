@@ -1,3 +1,5 @@
+<body background-color= "blue">
+  
 <h1 align="center">Hi 👋, I'm Mikaela Muthoni Kamunya</h1>
 <h3 align="center">A full stack web developer, passionate software developer and a forever learner</h3>
 
@@ -36,3 +38,4 @@
 
 
 
+</body>
