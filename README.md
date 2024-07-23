@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikaela Muthoni Kamunya</h1>
 <h3 align="center">A full stack web developer, passionate software developer and a forever learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=icily57&label=Profile%20views&color=0e75b6&style=flat" alt="icily57" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icily57" alt="icily57" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mikaela_kamunya" target="blank"><img src="https://img.shields.io/twitter/follow/mikaela_kamunya?logo=twitter&style=for-the-badge" alt="mikaela_kamunya" /></a> </p>
 
 - 🔭 I’m currently working on [Car Rental App with its API](https://github.com/Icily57/Car-Rental)
 
