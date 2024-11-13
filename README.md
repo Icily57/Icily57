@@ -5,9 +5,6 @@
 
 
 
-- 🔭 I’m currently working on [Car Rental App with its API](https://github.com/Icily57/Car-Rental)
-
-- 🌱 I’m currently learning **React js, Redux, Hono and Drizzle-ORM**
 
 - 💬 Ask me about **Web development**
 
