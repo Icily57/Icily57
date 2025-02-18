@@ -8,6 +8,9 @@ I'm Mikaela Muthoni Kamunya, a passionate Software Developer from Kirinyaga Coun
 
 ## Latest Projects 🌟
 <!-- PROJECTS:START -->
+- [Icily57](https://github.com/Icily57/Icily57) - Config files for my GitHub profile.
+- [password-generator](https://github.com/Icily57/password-generator) - null
+- [blackjack-game](https://github.com/Icily57/blackjack-game) - null
 <!-- PROJECTS:END -->
 
 ## Let's Connect! 🤝
@@ -18,6 +21,7 @@ I'm Mikaela Muthoni Kamunya, a passionate Software Developer from Kirinyaga Coun
 
 ## Quote of the Day 🌟
 <!-- QUOTE:START -->
+Failed to fetch quote of the day.
 <!-- QUOTE:END -->
 
 ![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
