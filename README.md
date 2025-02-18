@@ -19,10 +19,12 @@ I'm Mikaela Muthoni Kamunya, a passionate Software Developer from Kirinyaga Coun
 - [Discord](https://discord.com/mikaela_kamunya)
 - [Email](icilyweird57@gmail.com)
 
-## Quote of the Day 🌟
+## Motivation to press on 🌟
 <!-- QUOTE:START -->
-Failed to fetch quote of the day.
+-Code never lies, comments sometimes do: It's better to rewrite bad code instead of just commenting on it.
+-Programming is learned by writing programs: Programming involves solving problems, thinking creatively, and working with others.
+-Everybody should learn to program a computer because it teaches you how to think.
 <!-- QUOTE:END -->
 
-![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+<!--![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)-->
 
