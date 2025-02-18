@@ -8,9 +8,9 @@ I'm Mikaela Muthoni Kamunya, a passionate Software Developer from Kirinyaga Coun
 
 ## Latest Projects 🌟
 <!-- PROJECTS:START -->
-- [Icily57](https://github.com/Icily57/Icily57) - Config files for my GitHub profile.
-- [password-generator](https://github.com/Icily57/password-generator) - null
-- [blackjack-game](https://github.com/Icily57/blackjack-game) - null
+- [Icily57](https://github.com/Icily57/Icily57) 
+- [password-generator](https://github.com/Icily57/password-generator) 
+- [blackjack-game](https://github.com/Icily57/blackjack-game) 
 <!-- PROJECTS:END -->
 
 ## Let's Connect! 🤝
