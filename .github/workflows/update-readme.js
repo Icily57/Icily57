@@ -1,10 +1,26 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
 
+async function fetchWithRetry(url, options = {}, retries = 3, backoff = 3000) {
+  for (let i = 0; i < retries; i++) {
+    try {
+      const res = await fetch(url, options);
+      if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+      return await res.json();
+    } catch (error) {
+      console.error(`Attempt ${i + 1} failed: ${error.message}`);
+      if (i < retries - 1) {
+        await new Promise(resolve => setTimeout(resolve, backoff));
+      } else {
+        throw error;
+      }
+    }
+  }
+}
+
 async function fetchLatestProjects() {
   try {
-    const res = await fetch('https://api.github.com/users/Icily57/repos?sort=updated&per_page=3');
-    const repos = await res.json();
+    const repos = await fetchWithRetry('https://api.github.com/users/Icily57/repos?sort=updated&per_page=3');
     return repos.map(repo => `- [${repo.name}](${repo.html_url}) - ${repo.description}`).join('\n');
   } catch (error) {
     console.error('Error fetching latest projects:', error);
@@ -14,8 +30,7 @@ async function fetchLatestProjects() {
 
 async function fetchQuoteOfTheDay() {
   try {
-    const res = await fetch('https://api.quotable.io/random');
-    const quote = await res.json();
+    const quote = await fetchWithRetry('https://api.quotable.io/random');
     return `"${quote.content}" - ${quote.author}`;
   } catch (error) {
     console.error('Error fetching quote of the day:', error);
