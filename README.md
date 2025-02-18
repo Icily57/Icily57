@@ -22,7 +22,11 @@ I'm Mikaela Muthoni Kamunya, a passionate Software Developer from Kirinyaga Coun
 ## Motivation to press on 🌟
 <!-- QUOTE:START -->
 -Code never lies, comments sometimes do: It's better to rewrite bad code instead of just commenting on it.
+<!-- QUOTE:END -->
+<!-- QUOTE:START -->
 -Programming is learned by writing programs: Programming involves solving problems, thinking creatively, and working with others.
+<!-- QUOTE:END -->
+<!-- QUOTE:START -->
 -Everybody should learn to program a computer because it teaches you how to think.
 <!-- QUOTE:END -->
 
