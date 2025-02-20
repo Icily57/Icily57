@@ -6,13 +6,6 @@ I'm Mikaela Muthoni Kamunya, a passionate Software Developer from Kirinyaga Coun
 - **Frameworks:** React, Node.js, Hono.js, Drizzle-ORM
 - **Tools:** Git, Anaconda, VS Code
 
-## Latest Projects 🌟
-<!-- PROJECTS:START -->
-- [Icily57](https://github.com/Icily57/Icily57) 
-- [password-generator](https://github.com/Icily57/password-generator) 
-- [blackjack-game](https://github.com/Icily57/blackjack-game) 
-<!-- PROJECTS:END -->
-
 ## Let's Connect! 🤝
 - [LinkedIn](www.linkedin.com/in/mikaela-kamunya-2ab723316)
 - [Twitter](https://x.com/Mikaela_Kamunya)
