@@ -1,0 +1,11 @@
+{
+  "name": "Icily57",
+  "version": "1.0.0",
+  "description": "Config files for my GitHub profile.",
+  "main": "update-readme.js",
+  "scripts": {
+    "start": "node update-readme.js"
+  },
+  "author": "Icily57",
+  "license": "ISC"
+}
